@@ -1,167 +1,164 @@
-# Palestine in 100 Objects: An Investigative Chronicle
+# Palestine in 100 Objects: A Collaborative Research Project
 
-## 📚 About This Project
+## 📚 About This Initiative
 
-A comprehensive investigative chronicle examining the Palestinian experience through 100 carefully researched objects. This manuscript traces supply chains from point of impact to corporate boardrooms and investment portfolios, revealing the material culture of both occupation and resistance.
+An ongoing investigative research project attempting to document the Palestinian experience through material culture. We're examining 100 objects - from everyday items to complex systems - tracing their stories, supply chains, and human impact. This is a work in progress, and we need your help to verify, expand, and improve this documentation.
 
 **Repository**: [https://github.com/Hulupeep/palestine-100-objects](https://github.com/Hulupeep/palestine-100-objects)
 
-**⚠️ This is a public, collaborative project. We welcome contributions, verification assistance, and corrections from the community. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.**
+**🤝 This is an open research project actively seeking contributors, fact-checkers, and subject matter experts. Your input is crucial to improving accuracy and completeness.**
 
-## 📖 Manuscript Structure
+## 🔬 Research Approach
+
+We're attempting to:
+- Trace objects from their point of use/impact back through supply chains
+- Document corporate and financial networks where possible
+- Collect personal stories and testimonies
+- Verify claims through multiple independent sources
+- Balance documentation of control systems with stories of resilience
+
+**Note**: This is ongoing research. Many claims need additional verification, some sections are incomplete, and we expect corrections and updates as more information becomes available.
+
+## 📖 Current Structure (Draft)
 
 ### Part I: Architecture of Control (Objects 1-25)
-Documents the systematic infrastructure of occupation through objects like bulldozers, surveillance systems, and checkpoints.
+*Attempting to document* infrastructure and systems of control - bulldozers, surveillance systems, checkpoints. **Needs: Technical specifications, corporate documentation, witness accounts**
 
 ### Part II: Weaponization of the Everyday (Objects 26-50)
-Examines how ordinary civilian objects are transformed into instruments of control and restriction.
+*Investigating* how civilian objects become instruments of restriction. **Needs: Supply chain verification, policy documentation, impact studies**
 
 ### Part III: Objects of Sumud (Objects 51-75)
-Celebrates Palestinian steadfastness through cultural objects, traditional crafts, and symbols of resistance.
+*Collecting stories of* Palestinian steadfastness through cultural objects and traditions. **Needs: Cultural experts, historical context, personal narratives**
 
 ### Part IV: Tools of New Generation (Objects 76-100)
-Explores Palestinian innovation and future-building through technology, art, and creative resistance.
+*Exploring* Palestinian innovation and creative resistance. **Needs: Tech specifications, startup data, youth perspectives**
 
-## 📊 Project Statistics
+## 📊 Current Status
 
-- **Total Word Count**: ~120,000 words
-- **Estimated Pages**: 400-500 pages
-- **Objects Documented**: 100 complete entries
-- **Sources Referenced**: 2,000+ verified citations
-- **Research Documentation**: 200,000+ words
-- **Verification Rate**: 89% of sources fully verified
+- **Objects Drafted**: 100 (in various stages of completion)
+- **Word Count**: ~120,000 (subject to change)
+- **Sources Collected**: 2,000+ (many need verification)
+- **Verification Rate**: Approximately 89% (ongoing process)
+- **Gaps Identified**: Multiple areas need additional research
 
-## 🔍 Key Features
+## 🚧 Known Limitations
 
-### Forensic Methodology
-Each object is traced from human impact through complete supply chains to global investment networks.
+- **Incomplete Verification**: Not all sources have been fully verified
+- **Evolving Information**: Financial data, corporate structures change rapidly
+- **Access Limitations**: Some information difficult to obtain or verify
+- **Translation Needs**: Many Arabic sources need translation
+- **Legal Review**: Pending comprehensive legal review for publication
 
-### Financial Network Analysis
-Documents how ordinary investors are connected to occupation infrastructure through pension funds and index investments.
+## 🆘 Where We Need Help
 
-### Balanced Narrative
-Moves from instruments of control through everyday weaponization to Palestinian resilience and innovation.
+### Urgent Needs:
+1. **Arabic Speakers**: Translate and verify Arabic sources
+2. **Financial Analysts**: Verify investment data and corporate structures
+3. **Engineers/Technical Experts**: Confirm equipment specifications
+4. **Historians**: Provide context and verify historical claims
+5. **On-Ground Reporters**: Current information from Palestine
+6. **Legal Experts**: Review for defamation risks and accuracy
 
-### Comprehensive Documentation
-Extensive bibliography with verification, corporate index covering major global investment networks.
+### Specific Research Gaps:
+- Supply chain documentation for Objects 15-25
+- Personal testimonies for Objects 40-50
+- Technical specifications for surveillance equipment
+- Current financial data (post-2024)
+- Historical context for cultural objects
 
 ## 📁 Repository Structure
 
 ```
 /pal100objects/
-├── final/                  # Publication-ready manuscript
-│   ├── 00_front_matter.md
-│   ├── 01_part_one.md     # Architecture of Control
-│   ├── 02_part_two.md     # Weaponization of Everyday
-│   ├── 03_part_three.md   # Objects of Sumud
-│   ├── 04_part_four.md    # Tools of New Generation
-│   ├── 05_bibliography.md
-│   └── 06_index.md
-├── research/              # Comprehensive research documentation
-├── citations/             # Verified sources and citations
-├── editorial/             # Style guides and review notes
-├── docs/                  # Reference materials
-│   └── legal.md          # Legal disclaimers and copyright information
-└── CONTRIBUTING.md        # Contribution guidelines and source verification rules
+├── final/                 # Draft manuscripts (NOT final despite folder name)
+├── research/              # Research notes and documentation
+├── citations/             # Sources being verified
+├── editorial/             # Notes and style guides
+├── docs/                  # Legal and reference materials
+└── CONTRIBUTING.md        # How to contribute
 ```
 
-## ✅ Publication Status
+## 🔍 Verification Process
 
-**Ready for Submission** - All critical errors have been corrected per comprehensive fact-checking:
-- Financial data verified against SEC filings
-- Technical specifications confirmed with manufacturers
-- UN/NGO reports verified with document numbers
-- News sources confirmed with direct URLs
+We're working to verify all claims through:
+- Multiple independent sources
+- Original documentation where possible
+- Expert review in relevant fields
+- Community fact-checking
 
-## 🌍 Impact
+**Current verification status varies by object and claim. Please treat all content as preliminary research.**
 
-This manuscript provides:
-- **Forensic evidence** of occupation infrastructure
-- **Corporate accountability** documentation
-- **Investment transparency** for institutional investors
-- **Palestinian narrative** centering resilience and innovation
-- **Educational resource** for understanding conflict through material culture
+## 📝 How to Contribute
 
-## 📝 Notable Entries
+**Your expertise is needed!** We're seeking:
 
-- **Object 33: The House Key** - Symbol of 1948 Nakba and ongoing displacement
-- **Object 1: The Armored Bulldozer** - Caterpillar D9 and home demolitions
-- **Object 12: The Cloud Server** - Microsoft Azure and mass surveillance
-- **Object 51: The Olive Sapling** - Resilience and connection to land
-- **Object 76: The Bicycle** - Gaza Sunbirds para-cycling team
+### Immediate Contributions:
+- **Fact-Checking**: Verify or dispute any claim with sources
+- **Source Addition**: Provide primary sources for unsourced claims
+- **Corrections**: Point out errors or outdated information
+- **Translations**: Help with Arabic, Hebrew, or other languages
+- **Technical Review**: Verify specifications and technical claims
 
-## 🤝 Methodology
+### Longer-term Contributions:
+- **New Objects**: Propose Objects 101+ with documentation
+- **Personal Stories**: Share firsthand accounts (with permission)
+- **Photo Documentation**: Provide images (with rights cleared)
+- **Academic Review**: Scholarly analysis and context
 
-This work was created using a innovative swarm methodology:
-- Multiple specialized research agents (historians, journalists, financial analysts)
-- Comprehensive fact-checking and verification
-- Cross-referenced sources from multiple perspectives
-- Systematic supply chain investigation
-- Financial network mapping
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-## 📚 Further Reading
+## 📧 Contact
 
-- angle.md - Framework and investigative approach
-- PROJECT_SUMMARY.md - Complete project overview
-- CORRECTIONS_APPLIED.md - All fact-checking corrections
-- VERIFIED_BIBLIOGRAPHY.md - Complete source list with URLs
-
-## 📝 Corrections & Updates Policy
-
-This book reports facts as of the publication dates noted and cites its sources. If you spot an error, please:
-
-1. **Open an Issue** on GitHub with the object number and correction
-2. **Email** corrections_Pal100@floutlabs.com
-3. **Submit a Pull Request** with verified corrections
-
-We will investigate and, where warranted, publish prompt corrections in:
-- Future printings/editions
-- This GitHub repository (with date/time stamps)
-- This GitHub repository at https://github.com/Hulupeep/palestine-100-objects
-
-**Significant updates will be logged with:**
-- Date and time of correction
-- What changed (original vs. corrected)
-- Source for the correction
-- Reviewer who verified the change
-
-## 🤝 How to Contribute
-
-**We need your help!** This is a collaborative project seeking assistance with:
-
-- **Source Verification**: Help us verify citations and find primary sources
-- **Fact-Checking**: Cross-reference claims with multiple sources
-- **Additional Objects**: Propose and document Objects 101+
-- **Translations**: Translate entries into Arabic and other languages
-- **Updates**: Provide recent statistics and developments
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
-- Source verification rules (minimum 3 primary sources per entry)
-- Submission standards for new objects
-- Our source hierarchy and credibility tiers
-- How to report errors or submit corrections
+- **General Inquiries**: info_Pal100@floutlabs.com
+- **Corrections**: corrections_Pal100@floutlabs.com
+- **Contributing**: contribute_Pal100@floutlabs.com
+- **Press**: press_Pal100@floutlabs.com
 
 ## ⚖️ License & Legal
 
-**Copyright © 2025** - Original work by collaborative research team
+**Copyright © 2025** - Collaborative research project
 
-This work is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (CC BY-NC-SA 4.0)
+Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (CC BY-NC-SA 4.0)
 
-- **Educational and journalistic purposes**
-- **All facts verified through public sources**
-- **Fair use for research and commentary**
-- **See [docs/legal.md](docs/legal.md) for complete legal information**
+- Research and educational purposes
+- Sources cited where available
+- Fair use for commentary and analysis
+- See [docs/legal.md](docs/legal.md) for details
 
-## 👤 Original Creator
+**Disclaimer**: This is ongoing research. Information may be incomplete, outdated, or contain errors. We make no claims to definitiveness and welcome corrections.
 
-This project was initiated and initially researched by a collaborative team of investigative journalists, researchers, and editors committed to documenting Palestinian experiences through material culture. The project is now open for community contributions while maintaining rigorous verification standards.
+## 🌍 Vision
+
+This project aims to create a living document that:
+- Evolves with community input
+- Improves through peer review
+- Serves as an educational resource
+- Documents material culture respectfully
+- Centers Palestinian experiences
+
+## 👥 Contributors Wanted
+
+We especially welcome contributions from:
+- Palestinian researchers and writers
+- Regional experts and historians
+- Investigative journalists
+- Human rights documentarians
+- Supply chain specialists
+- Financial analysts
+- Students and academics
 
 ## 🙏 Acknowledgments
 
-Created through collaborative research utilizing specialized investigative journalism, foreign correspondence, financial analysis, supply chain expertise, and editorial review.
+This research builds on work by countless journalists, researchers, human rights organizations, and witnesses. We're grateful to all who have documented these stories and to future contributors who will help improve this work.
 
-Special thanks to all contributors who help verify sources, correct errors, and expand this important documentation.
+Special recognition for those risking their safety to document truth.
 
 ---
 
-*"If Palestine in 100 Objects has a beginning, it must be here—with the key that still rattles in pockets and drawers, waiting for a door that no longer exists, insisting on a truth that no demolition can erase."*
+*"This is not a finished book but an invitation to collective documentation. Every correction makes it stronger, every contribution more complete."*
+
+## 📌 Note on Project Status
+
+**This is an active research project, not a completed manuscript.** We're sharing our work-in-progress to invite collaboration, correction, and contribution from the global community. Together, we can build a more accurate and comprehensive record.
+
+**Join us in this effort.** Every fact checked, every source verified, every story documented brings us closer to understanding.
