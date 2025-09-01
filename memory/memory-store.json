@@ -1,0 +1,10 @@
+{
+  "palestine100objects": [
+    {
+      "key": "financial_analysis_key_findings",
+      "value": "Part II Financial Investigation Results:\n\nCORPORATE NETWORK OVERVIEW:\n- Total estimated annual contract value: 00-450 million\n- Combined institutional investor assets: 1.9 trillion (BlackRock + Vanguard)\n- Key companies: Microsoft (MSFT), IBM (IBM), Caterpillar (CAT), Elbit Systems (ESLT), NICE Systems (NICE)\n\nPROFIT CENTERS BY OBJECT:\nObject 32 (Permit): Technology contracts 0M+ annually, Elbit Systems NIS 14M contract\nObject 33 (House Key): Caterpillar 95M sale (2025), Settlement development 300-600% margins\nObject 34 (Medical Record): Healthcare restriction administrative fees, permit processing revenue\nObject 35 (Electricity Meter): IEC 00-500M annual revenue, 19M debt leveraging\nObject 36 (Birth Certificate): Population registry processing, documentation control fees\n\nINSTITUTIONAL HOLDINGS:\n- BlackRock: Major positions in Microsoft, IBM, Caterpillar, NICE\n- Vanguard: Largest Microsoft shareholder (8.9%), significant holdings across all companies\n- Cross-ownership: Vanguard owns 8.9% of BlackRock (0.9B position)\n\nCRITICAL FINDING: Control systems generate substantial corporate profits while imposing billions in economic costs on Palestinian population through systematic restrictions.",
+      "namespace": "palestine100objects",
+      "timestamp": 1756202134371
+    }
+  ]
+}
