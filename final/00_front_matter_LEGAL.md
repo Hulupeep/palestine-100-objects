@@ -61,7 +61,7 @@ Factual statements in this book are sourced and dated in notes. Company holdings
 
 ## Corrections & Updates Policy
 
-This book reports facts as of the publication dates noted and cites its sources. If you spot an error, please contact corrections@pal100objects.org. We will investigate and, where warranted, publish a prompt correction in future printings/editions and at https://pal100objects.org/corrections. Significant updates will be logged with date/time, what changed, and source.
+This book reports facts as of the publication dates noted and cites its sources. If you spot an error, please contact corrections_Pal100@floutlabs.com. We will investigate and, where warranted, publish a prompt correction in future printings/editions and at https://github.com/Hulupeep/palestine-100-objects. Significant updates will be logged with date/time, what changed, and source.
 
 ---
 

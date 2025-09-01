@@ -176,9 +176,9 @@ The manuscript has been transformed from high-risk to publication-ready through 
 
 ## 📧 LEGAL CONTACTS
 
-**Corrections**: corrections@pal100objects.org  
-**Legal Inquiries**: legal@pal100objects.org  
-**Media Inquiries**: press@pal100objects.org
+**Corrections**: corrections_Pal100@floutlabs.com  
+**Legal Inquiries**: legal_Pal100@floutlabs.com  
+**Media Inquiries**: press_Pal100@floutlabs.com
 
 ---
 

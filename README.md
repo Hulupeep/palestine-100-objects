@@ -111,13 +111,13 @@ This work was created using a innovative swarm methodology:
 This book reports facts as of the publication dates noted and cites its sources. If you spot an error, please:
 
 1. **Open an Issue** on GitHub with the object number and correction
-2. **Email** corrections@pal100objects.org
+2. **Email** corrections_Pal100@floutlabs.com
 3. **Submit a Pull Request** with verified corrections
 
 We will investigate and, where warranted, publish prompt corrections in:
 - Future printings/editions
 - This GitHub repository (with date/time stamps)
-- Our website at https://pal100objects.org/corrections
+- This GitHub repository at https://github.com/Hulupeep/palestine-100-objects
 
 **Significant updates will be logged with:**
 - Date and time of correction

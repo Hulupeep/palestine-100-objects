@@ -275,7 +275,7 @@ This work employs rigorous fact-checking standards:
 We maintain commitment to accuracy through:
 
 **Public Error Reporting**:
-- Email contact: corrections@pal100objects.org
+- Email contact: corrections_Pal100@floutlabs.com
 - GitHub issue system for documented corrections
 - Clear identification requirements for reported errors
 - Response timeframe: 72 hours for acknowledgment

@@ -166,7 +166,7 @@ If you find an error but cannot fix it yourself:
    - Correct information with source
    - Why this correction is important
 
-2. **Email** corrections@pal100objects.org with:
+2. **Email** corrections_Pal100@floutlabs.com with:
    - Subject: "Correction: Object [Number] - [Brief Description]"
    - Detailed explanation
    - Supporting documentation
@@ -226,10 +226,10 @@ This project is maintained by a volunteer editorial board committed to accuracy,
 
 ## 📧 Contact
 
-- **General Inquiries**: info@pal100objects.org
-- **Corrections**: corrections@pal100objects.org
-- **Press/Media**: press@pal100objects.org
-- **Legal**: legal@pal100objects.org
+- **General Inquiries**: info_Pal100@floutlabs.com
+- **Corrections**: corrections_Pal100@floutlabs.com
+- **Press/Media**: press_Pal100@floutlabs.com
+- **Legal**: legal_Pal100@floutlabs.com
 
 ## 🙏 Recognition
 
@@ -253,7 +253,7 @@ All contributors must:
 
 If you discover information that could endanger individuals:
 - Do NOT include it in public contributions
-- Contact security@pal100objects.org immediately
+- Contact security_Pal100@floutlabs.com immediately
 - We will work to verify while protecting sources
 
 ---
