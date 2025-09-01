@@ -5,7 +5,9 @@
 
 **This project is brought to you by the Pal100 community whose objective is to chronicle and distribute the Palestinian experience through materal culture. It includes the tracing of objects through the flow of money.**
 
-The **Pal100 community** is an **urgent, community-driven preservation project** documenting Palestinian material culture and the money that powers it through systematic object documentation. Starting with 100 foundational objects, we are scaling to create the world's most comprehensive archive of Palestinian material culture and sources - growing to 1,000 then 10,000 objects through community participation worldwide.
+These are the objects that Palestinans encounter every day. A medical glove, a bulldozer (who profits), a phone (where data is stored), a key that has been passed down through generations. 
+
+The **Pal100 community** is an **urgent, community-driven preservation project** documenting Palestinian material culture and the money that powers it through systematic object documentation. Starting with 100 foundational objects, we are scaling to create the world's most comprehensive online archive of Palestinian material culture and sources - growing to 1,000 then 10,000 objects through community participation worldwide.
 
 **⏰ URGENT**: We recognize the critical importance of preserving what may not survive the current situation. Every object documented, every story preserved, every connection traced becomes part of a permanent historical record for future generations.
 
