@@ -13,7 +13,7 @@ The **Pal100 community** is an **urgent, community-driven preservation project**
 
 **🤝 This is an open, community-driven research project actively seeking contributors, fact-checkers, and subject matter experts. Your input is crucial to improving accuracy and completeness.**
 
-**📖 Read our Mission**: For the full vision and community objectives, see [docs/MISSION.md](MISSION.md)
+**📖 Read our Mission**: For the full vision and community objectives, see [MISSION.md](docs/MISSION.md)
 
 ## 🚀 Our Scaling Vision: 100 → 1,000 → 10,000
 
