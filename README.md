@@ -6,6 +6,8 @@ A comprehensive investigative chronicle examining the Palestinian experience thr
 
 **Repository**: [https://github.com/Hulupeep/palestine-100-objects](https://github.com/Hulupeep/palestine-100-objects)
 
+**⚠️ This is a public, collaborative project. We welcome contributions, verification assistance, and corrections from the community. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.**
+
 ## 📖 Manuscript Structure
 
 ### Part I: Architecture of Control (Objects 1-25)
@@ -58,7 +60,9 @@ Extensive bibliography with verification, corporate index covering major global 
 ├── research/              # Comprehensive research documentation
 ├── citations/             # Verified sources and citations
 ├── editorial/             # Style guides and review notes
-└── docs/                  # Reference materials
+├── docs/                  # Reference materials
+│   └── legal.md          # Legal disclaimers and copyright information
+└── CONTRIBUTING.md        # Contribution guidelines and source verification rules
 ```
 
 ## ✅ Publication Status
@@ -102,13 +106,61 @@ This work was created using a innovative swarm methodology:
 - CORRECTIONS_APPLIED.md - All fact-checking corrections
 - VERIFIED_BIBLIOGRAPHY.md - Complete source list with URLs
 
-## ⚖️ License
+## 📝 Corrections & Updates Policy
 
-This work is intended for educational and journalistic purposes. All facts have been verified through public sources and documentation.
+This book reports facts as of the publication dates noted and cites its sources. If you spot an error, please:
+
+1. **Open an Issue** on GitHub with the object number and correction
+2. **Email** corrections@pal100objects.org
+3. **Submit a Pull Request** with verified corrections
+
+We will investigate and, where warranted, publish prompt corrections in:
+- Future printings/editions
+- This GitHub repository (with date/time stamps)
+- Our website at https://pal100objects.org/corrections
+
+**Significant updates will be logged with:**
+- Date and time of correction
+- What changed (original vs. corrected)
+- Source for the correction
+- Reviewer who verified the change
+
+## 🤝 How to Contribute
+
+**We need your help!** This is a collaborative project seeking assistance with:
+
+- **Source Verification**: Help us verify citations and find primary sources
+- **Fact-Checking**: Cross-reference claims with multiple sources
+- **Additional Objects**: Propose and document Objects 101+
+- **Translations**: Translate entries into Arabic and other languages
+- **Updates**: Provide recent statistics and developments
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
+- Source verification rules (minimum 3 primary sources per entry)
+- Submission standards for new objects
+- Our source hierarchy and credibility tiers
+- How to report errors or submit corrections
+
+## ⚖️ License & Legal
+
+**Copyright © 2025** - Original work by collaborative research team
+
+This work is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (CC BY-NC-SA 4.0)
+
+- **Educational and journalistic purposes**
+- **All facts verified through public sources**
+- **Fair use for research and commentary**
+- **See [docs/legal.md](docs/legal.md) for complete legal information**
+
+## 👤 Original Creator
+
+This project was initiated and initially researched by a collaborative team of investigative journalists, researchers, and editors committed to documenting Palestinian experiences through material culture. The project is now open for community contributions while maintaining rigorous verification standards.
 
 ## 🙏 Acknowledgments
 
 Created through collaborative research utilizing specialized investigative journalism, foreign correspondence, financial analysis, supply chain expertise, and editorial review.
+
+Special thanks to all contributors who help verify sources, correct errors, and expand this important documentation.
 
 ---
 
