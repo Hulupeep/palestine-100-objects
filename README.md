@@ -3,9 +3,9 @@
 
 ## 🌍 About the Pal100 Community Initiative
 
-**This project is brought to you by the Pal100 community whose objective is to chronicle and distribute the Palestinian experience through material culture.**
+**This project is brought to you by the Pal100 community whose objective is to chronicle and distribute the Palestinian experience through materal culture. It includes the tracing of objects through the flow of money.**
 
-The **Pal100 community** is an **urgent, community-driven preservation project** documenting Palestinian material culture through systematic object documentation. Starting with 100 foundational objects, we are scaling to create the world's most comprehensive archive of Palestinian material culture - growing to 1,000 then 10,000 objects through community participation worldwide.
+The **Pal100 community** is an **urgent, community-driven preservation project** documenting Palestinian material culture and the money that powers it through systematic object documentation. Starting with 100 foundational objects, we are scaling to create the world's most comprehensive archive of Palestinian material culture and sources - growing to 1,000 then 10,000 objects through community participation worldwide.
 
 **⏰ URGENT**: We recognize the critical importance of preserving what may not survive the current situation. Every object documented, every story preserved, every connection traced becomes part of a permanent historical record for future generations.
 
@@ -13,7 +13,7 @@ The **Pal100 community** is an **urgent, community-driven preservation project**
 
 **🤝 This is an open, community-driven research project actively seeking contributors, fact-checkers, and subject matter experts. Your input is crucial to improving accuracy and completeness.**
 
-**📖 Read our Mission**: For the full vision and community objectives, see [MISSION.md](MISSION.md)
+**📖 Read our Mission**: For the full vision and community objectives, see [docs/MISSION.md](MISSION.md)
 
 ## 🚀 Our Scaling Vision: 100 → 1,000 → 10,000
 
