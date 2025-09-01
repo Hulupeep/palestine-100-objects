@@ -1,10 +1,14 @@
-# Contributing to Palestine in 100 Objects
+# Contributing to the Pal100 Community
 
-Thank you for your interest in contributing to this important documentation project. This is an open, collaborative effort to create a comprehensive and accurate chronicle of Palestinian experience through material culture.
+Thank you for your interest in contributing to the **Pal100 Community** - an urgent, community-driven effort to chronicle and preserve Palestinian material culture from 100 objects to 10,000 objects. This is a critical preservation initiative to document what may not survive the current situation.
 
-## 🤝 How to Contribute
+## 🚨 URGENT: Preserving What May Not Survive
 
-We welcome contributions in the following areas:
+**The Pal100 community recognizes the critical importance of preserving Palestinian material culture NOW.** Every object documented, every story preserved, every connection traced becomes part of a permanent historical record for future generations.
+
+## 🤝 How the Pal100 Community Can Contribute
+
+The **Pal100 community** especially welcomes participation from Palestinians worldwide, diaspora communities, cultural experts, and allies. We welcome contributions in the following areas as we scale from **100 → 1,000 → 10,000 objects**:
 
 ### 1. Source Verification
 - Help verify existing citations with direct URLs
@@ -12,11 +16,14 @@ We welcome contributions in the following areas:
 - Provide archived versions of sources that may become inaccessible
 - Cross-reference facts with multiple independent sources
 
-### 2. Additional Objects
-- Propose new objects for documentation (Objects 101+)
-- Provide personal stories and testimonies about existing objects
-- Submit photographic documentation (with proper permissions)
-- Contribute technical specifications or supply chain information
+### 2. Community Object Expansion (Critical for Scaling to 10,000)
+- **Personal Objects (101+)**: Share your family's objects and their stories - these are the heart of our community archive
+- **Regional Variations**: Document objects specific to Gaza, West Bank, Jerusalem, diaspora communities
+- **Generational Perspectives**: Stories from different age groups within the Palestinian community
+- **Cultural Heritage Items**: Traditional crafts, tools, clothing, ceremonial objects
+- **Contemporary Innovations**: Palestinian startups, creative projects, resistance technologies
+- **Photographic Documentation**: With proper permissions and safety considerations
+- **Community Testimonies**: First-hand accounts from Palestinian community members
 
 ### 3. Translations
 - Translate entries into Arabic, French, Spanish, or other languages
