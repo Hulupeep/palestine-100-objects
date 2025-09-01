@@ -2,7 +2,7 @@
 
 ## 📚 About This Initiative
 
-An ongoing investigative research project attempting to document the Palestinian experience through material culture. We're examining 100 objects - from everyday items to complex systems - tracing their stories, supply chains, and human impact. This is a work in progress, and we need your help to verify, expand, and improve this documentation.
+An ongoing investigative research project attempting to document the Palestinian experience through material culture. We're examining 100 objects to begin with - from everyday items to complex systems - tracing their stories, supply chains, and human impact. This is a work in progress, and we need your help to verify, expand from 100 to 1000, and improve this documentation.
 
 **Repository**: [https://github.com/Hulupeep/palestine-100-objects](https://github.com/Hulupeep/palestine-100-objects)
 
